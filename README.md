@@ -1,11 +1,11 @@
-# bedrickov
+# Hello, I'm bedrickov
 
 Systems & Performance developer. Focused on low-overhead Windows utilities, memory optimization, and local-first software.
 
 ### Languages & Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cs,cpp,rust,go" alt="Java, C#, C++, Rust, Go" />
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,rust,go,py" alt="Java, C#, C++, Rust, Go, Python" />
 </p>
 
 ---
@@ -13,7 +13,7 @@ Systems & Performance developer. Focused on low-overhead Windows utilities, memo
 ### Featured Projects
 
 * [**ram-cleaner**](https://github.com/bedrickov/ram-cleaner) — Lightweight Windows working-set memory manager & cache flusher. `C#` `.NET`
-* **ariia** — Local-first desktop voice assistant with offline inference pipelines. `Electron` `React`
+* **ariia** — Local-first desktop voice assistant with offline inference pipelines. `Electron` `React` `Python`
 
 ---
 
