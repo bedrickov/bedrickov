@@ -1,17 +1,32 @@
 # bedrickov
 
-Systems developer focused on native Windows utilities, memory optimization, and local-first desktop apps.
+Systems & Performance developer. Focused on low-overhead Windows utilities, memory optimization, and local-first software.
 
-`C#` · `.NET` · `Win32 API` · `TypeScript` · `Electron` · `React 19` · `Python`
+### Languages & Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,rust,go" alt="Java, C#, C++, Rust, Go" />
+</p>
 
 ---
 
-* [**ram-cleaner**](https://github.com/bedrickov/ram-cleaner) — Windows working-set memory manager & system cache flusher. `C#` `.NET`
-* [**ariia**](https://github.com/bedrickov) — Local-first offline desktop voice assistant with zero telemetry. `Electron` `React`
+### Featured Projects
+
+* [**ram-cleaner**](https://github.com/bedrickov/ram-cleaner) — Lightweight Windows working-set memory manager & cache flusher. `C#` `.NET`
+* **ariia** — Local-first desktop voice assistant with offline inference pipelines. `Electron` `React`
 
 ---
 
-<div align="left">
-  <a href="https://github.com/bedrickov"><img src="https://img.shields.io/badge/GitHub-bedrickov-0d1117?style=flat-square&logo=github&logoColor=c9d1d9" alt="GitHub" /></a>
-  <a href="mailto:kirohubsup@gmail.com"><img src="https://img.shields.io/badge/Email-kirohubsup%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=ea4335" alt="Email" /></a>
-</div>
+### Connect
+
+<p align="left">
+  <a href="https://t.me/lookbrute">
+    <img src="https://img.shields.io/badge/Telegram-@lookbrute-161b22?style=flat-square&logo=telegram&logoColor=2CA5E0" alt="Telegram" height="26" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Discord-h.bhc-161b22?style=flat-square&logo=discord&logoColor=5865F2" alt="Discord" height="26" />
+  &nbsp;
+  <a href="https://github.com/bedrickov">
+    <img src="https://img.shields.io/badge/GitHub-bedrickov-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="26" />
+  </a>
+</p>
