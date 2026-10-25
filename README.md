@@ -1,32 +1,17 @@
 # bedrickov
 
-Software developer specializing in Windows system utilities, memory management, and local-first desktop applications. Focused on low runtime overhead, native Win32 APIs, and zero-telemetry architectures.
+Systems developer focused on native Windows utilities, memory optimization, and local-first desktop apps.
+
+`C#` · `.NET` · `Win32 API` · `TypeScript` · `Electron` · `React 19` · `Python`
 
 ---
 
-### ⚙️ Systems & Projects
-
-| Project | Ecosystem | Architecture & Focus |
-| :--- | :--- | :--- |
-| [**ram-cleaner**](https://github.com/bedrickov/ram-cleaner) | `C#` `.NET` `Win32` | Lightweight Windows system utility for working-set trimming, memory cleanup, and cache management without system stutter. |
-| [**ariia**](https://github.com/bedrickov) | `TypeScript` `Electron` `React` | Local-first desktop voice assistant featuring offline AI pipelines, custom audio capture, and a native desktop footprint. |
+* [**ram-cleaner**](https://github.com/bedrickov/ram-cleaner) — Windows working-set memory manager & system cache flusher. `C#` `.NET`
+* [**ariia**](https://github.com/bedrickov) — Local-first offline desktop voice assistant with zero telemetry. `Electron` `React`
 
 ---
 
-### 💻 Technical Stack
-
-* **Systems & Native:** C#, .NET, Win32 API, Memory Management, Process Internals.
-* **Desktop & Interfaces:** TypeScript, Electron, React 19, Vite, Tailwind CSS.
-* **Backend & Models:** Python, Local LLM/Speech Inference Pipelines, Node.js.
-* **Tooling & Environment:** Git, PowerShell, MSBuild / Visual Studio, Windows Terminal.
-
----
-
-### 🖥️ Machine Spec
-
-```ini
-[sys:bedrickov]
-target_platform = Windows / x64
-architecture    = Native Systems · Local-First Desktop · Offline AI
-core_rules      = Low latency · Minimal memory footprint · Clean teardown
-status          = Active development on Windows utilities & desktop tools
+<div align="left">
+  <a href="https://github.com/bedrickov"><img src="https://img.shields.io/badge/GitHub-bedrickov-0d1117?style=flat-square&logo=github&logoColor=c9d1d9" alt="GitHub" /></a>
+  <a href="mailto:kirohubsup@gmail.com"><img src="https://img.shields.io/badge/Email-kirohubsup%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=ea4335" alt="Email" /></a>
+</div>
