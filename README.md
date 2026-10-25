@@ -1,16 +1,32 @@
-## Hi there 👋
+# bedrickov
 
-<!--
-**bedrickov/bedrickov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer specializing in Windows system utilities, memory management, and local-first desktop applications. Focused on low runtime overhead, native Win32 APIs, and zero-telemetry architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Systems & Projects
+
+| Project | Ecosystem | Architecture & Focus |
+| :--- | :--- | :--- |
+| [**ram-cleaner**](https://github.com/bedrickov/ram-cleaner) | `C#` `.NET` `Win32` | Lightweight Windows system utility for working-set trimming, memory cleanup, and cache management without system stutter. |
+| [**ariia**](https://github.com/bedrickov) | `TypeScript` `Electron` `React` | Local-first desktop voice assistant featuring offline AI pipelines, custom audio capture, and a native desktop footprint. |
+
+---
+
+### 💻 Technical Stack
+
+* **Systems & Native:** C#, .NET, Win32 API, Memory Management, Process Internals.
+* **Desktop & Interfaces:** TypeScript, Electron, React 19, Vite, Tailwind CSS.
+* **Backend & Models:** Python, Local LLM/Speech Inference Pipelines, Node.js.
+* **Tooling & Environment:** Git, PowerShell, MSBuild / Visual Studio, Windows Terminal.
+
+---
+
+### 🖥️ Machine Spec
+
+```ini
+[sys:bedrickov]
+target_platform = Windows / x64
+architecture    = Native Systems · Local-First Desktop · Offline AI
+core_rules      = Low latency · Minimal memory footprint · Clean teardown
+status          = Active development on Windows utilities & desktop tools
