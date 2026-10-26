@@ -1,18 +1,19 @@
 # Hello, I'm bedrickov
 
-Systems & Performance developer. Focused on low-overhead Windows utilities, memory optimization, and local-first software.
+Systems & Performance developer. Focused on low-overhead Windows utilities, memory optimization, security tooling, and local-first software.
 
 ### Languages & Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cs,cpp,rust,go,py" alt="Java, C#, C++, Rust, Go, Python" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,rust,go,py,java" alt="C#, C++, Rust, Go, Python, Java" />
 </p>
 
 ---
 
 ### Featured Projects
 
-* [**ram-cleaner**](https://github.com/bedrickov/ram-cleaner) — Lightweight Windows working-set memory manager & cache flusher. `C#` `.NET`
+* [**gatesentry**](https://github.com/bedrickov/gatesentry) — High-speed DevSecOps static analysis & secret scanner engine with Shannon entropy heuristic and SARIF v2.1 export. `C#` `.NET 10` `DevSecOps`
+* [**ram-cleaner**](https://github.com/bedrickov/ram-cleaner) — Lightweight Windows working-set memory manager & native NT cache flusher. `C#` `.NET` `Win32`
 * **ariia** — Local-first desktop voice assistant with offline inference pipelines. `Electron` `React` `Python`
 
 ---
