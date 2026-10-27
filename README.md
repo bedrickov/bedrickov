@@ -21,7 +21,11 @@ Systems & Performance developer. Focused on low-overhead Windows utilities, memo
 * [**pulseflow**](https://github.com/bedrickov/pulseflow) — Ultra-low-latency zero-copy telemetry & structured log streaming engine with lock-free SPSC ring buffer and memory-mapped I/O (15M+ events/s). `C++20` `Lock-Free` `High-Performance`
 * [**gatesentry**](https://github.com/bedrickov/gatesentry) — High-speed DevSecOps static analysis & secret scanner engine with Shannon entropy heuristic and SARIF v2.1 export. `C#` `.NET 10` `DevSecOps`
 * [**ram-cleaner**](https://github.com/bedrickov/ram-cleaner) — Lightweight Windows working-set memory manager & native NT cache flusher. `C#` `.NET` `Win32`
-* **ariia** — Local-first desktop voice assistant with offline inference pipelines. `Electron` `React` `Python`
+* [**threadpulse**](https://github.com/bedrickov/threadpulse) — Ultra-low latency Windows NT thread execution and CPU time sampler via native ToolHelp and QueryProcessTimes. `Rust` `Performance` `Systems`
+* [**ringhandle**](https://github.com/bedrickov/ringhandle) — Kernel object handle table inspector via undocumented NT `SystemExtendedHandleInformation (64)`. `C++20` `Win32` `Kernel`
+* [**peguard**](https://github.com/bedrickov/peguard) — High-performance PE32+ header parser, entropy analyzer and packed section detector. `C#` `.NET 10` `ReverseEngineering`
+* [**rawsocket-probe**](https://github.com/bedrickov/rawsocket-probe) — Driverless low-level raw socket IPv4/TCP/UDP frame inspector & traffic metrics engine. `C` `Winsock` `Networking`
+* [**driver-sentry**](https://github.com/bedrickov/driver-sentry) — Windows kernel driver enumerator and Bring-Your-Own-Vulnerable-Driver (BYOVD) security auditor. `Python` `Win32` `Security`
 
 ---
 
