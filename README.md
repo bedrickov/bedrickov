@@ -26,6 +26,11 @@ Systems & Performance developer. Focused on low-overhead Windows utilities, memo
 * [**peguard**](https://github.com/bedrickov/peguard) — High-performance PE32+ header parser, entropy analyzer and packed section detector. `C#` `.NET 10` `ReverseEngineering`
 * [**rawsocket-probe**](https://github.com/bedrickov/rawsocket-probe) — Driverless low-level raw socket IPv4/TCP/UDP frame inspector & traffic metrics engine. `C` `Winsock` `Networking`
 * [**driver-sentry**](https://github.com/bedrickov/driver-sentry) — Windows kernel driver enumerator and Bring-Your-Own-Vulnerable-Driver (BYOVD) security auditor. `Python` `Win32` `Security`
+* [**clipboard-secret-scrubber**](https://github.com/bedrickov/clipboard-secret-scrubber) — Zero-latency clipboard data sanitizer neutralizing leaked API keys, tokens and RSA keys. `Rust` `Security` `Tooling`
+* [**dns-cache-flusher**](https://github.com/bedrickov/dns-cache-flusher) — Native Windows resolver cache purger calling undocumented `dnsapi!DnsFlushResolverCache`. `C` `Win32` `Network`
+* [**winservicesentry**](https://github.com/bedrickov/winservicesentry) — Fast Service Control Manager auditor mapping svchost instances and service ghost PIDs. `C#` `.NET 10` `Systems`
+* [**namedpipe-audit**](https://github.com/bedrickov/namedpipe-audit) — Win32 Device Namespace auditor querying active `\\.\pipe\*` IPC communication endpoints. `C++20` `IPC` `Security`
+* [**port-sentinel**](https://github.com/bedrickov/port-sentinel) — Kernel TCP table parser via `iphlpapi!GetExtendedTcpTable` mapping socket states to PIDs. `Python` `Win32` `Networking`
 
 ---
 
