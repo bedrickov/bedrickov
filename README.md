@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="bedrickov banner" width="100%" />
+</p>
+
 # Hello, I'm bedrickov
 
 Systems & Performance developer. Focused on low-overhead Windows utilities, memory optimization, security tooling, and local-first software.
