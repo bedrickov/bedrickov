@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="bedrickov banner" width="550" />
+  <img src="./banner.png" alt="bedrickov banner" width="100%" />
 </p>
 
 # Hello, I'm bedrickov
