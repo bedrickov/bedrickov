@@ -16,21 +16,21 @@ Systems & Performance developer. Focused on low-overhead Windows utilities, memo
 
 ### Featured Projects
 
-* [**sigwarden**](https://github.com/bedrickov/sigwarden) — Sub-millisecond cryptographic file integrity auditor, anti-ransomware canary tripwire & binary tamper detector. `Rust` `Security` `DevSecOps`
-* [**memguard**](https://github.com/bedrickov/memguard) — High-performance Windows process memory forensics & injection scanner (RWX/RX anomaly detection, NTDLL inline hook & syscall trampoline analysis). `C++20` `Win32` `Security`
-* [**nanosink**](https://github.com/bedrickov/nanosink) — Ultra-low-latency zero-copy telemetry & structured log streaming engine with lock-free SPSC ring buffer and memory-mapped I/O (15M+ events/s). `C++20` `Lock-Free` `High-Performance`
-* [**gatesentry**](https://github.com/bedrickov/gatesentry) — High-speed DevSecOps static analysis & secret scanner engine with Shannon entropy heuristic and SARIF v2.1 export. `C#` `.NET 10` `DevSecOps`
-* [**ram-cleaner**](https://github.com/bedrickov/ram-cleaner) — Lightweight Windows working-set memory manager & native NT cache flusher. `C#` `.NET` `Win32`
-* [**nt-thread-sampler**](https://github.com/bedrickov/nt-thread-sampler) — Ultra-low latency Windows NT thread execution and CPU time sampler via native ToolHelp and QueryProcessTimes. `Rust` `Performance` `Systems`
-* [**nt-handle-inspector**](https://github.com/bedrickov/nt-handle-inspector) — Kernel object handle table inspector via undocumented NT `SystemExtendedHandleInformation (64)`. `C++20` `Win32` `Kernel`
-* [**pe-entropy-analyzer**](https://github.com/bedrickov/pe-entropy-analyzer) — High-performance PE32+ header parser, Shannon entropy analyzer and packed section detector. `C#` `.NET 10` `ReverseEngineering`
-* [**rawsocket-probe**](https://github.com/bedrickov/rawsocket-probe) — Driverless low-level raw socket IPv4/TCP/UDP frame inspector & traffic metrics engine. `C` `Winsock` `Networking`
-* [**byovd-auditor**](https://github.com/bedrickov/byovd-auditor) — Windows kernel driver enumerator and Bring-Your-Own-Vulnerable-Driver (BYOVD) security auditor. `Python` `Win32` `Security`
-* [**clipboard-secret-scrubber**](https://github.com/bedrickov/clipboard-secret-scrubber) — Zero-latency clipboard data sanitizer neutralizing leaked API keys, tokens and RSA keys. `Rust` `Security` `Tooling`
-* [**dns-cache-flusher**](https://github.com/bedrickov/dns-cache-flusher) — Native Windows resolver cache purger calling undocumented `dnsapi!DnsFlushResolverCache`. `C` `Win32` `Network`
-* [**win-service-map**](https://github.com/bedrickov/win-service-map) — Fast Service Control Manager auditor mapping svchost instances and service ghost PIDs. `C#` `.NET 10` `Systems`
-* [**namedpipe-audit**](https://github.com/bedrickov/namedpipe-audit) — Win32 Device Namespace auditor querying active `\\.\pipe\*` IPC communication endpoints. `C++20` `IPC` `Security`
-* [**tcp-port-map**](https://github.com/bedrickov/tcp-port-map) — Kernel TCP table parser via `iphlpapi!GetExtendedTcpTable` mapping socket states to PIDs. `Python` `Win32` `Networking`
+* [**sigwarden**](https://github.com/bedrickov/sigwarden) — Fast file integrity monitor & anti-ransomware tripwire. `Rust`
+* [**memguard**](https://github.com/bedrickov/memguard) — Memory scanner for hidden hooks, shellcode & injected DLLs. `C++20`
+* [**nanosink**](https://github.com/bedrickov/nanosink) — Lock-free zero-copy logger processing 15M+ events/s. `C++20`
+* [**gatesentry**](https://github.com/bedrickov/gatesentry) — High-speed code analyzer & leaked secret detector. `C#`
+* [**ram-cleaner**](https://github.com/bedrickov/ram-cleaner) — Native Windows RAM optimizer & standby list flusher. `C#`
+* [**nt-thread-sampler**](https://github.com/bedrickov/nt-thread-sampler) — Real-time CPU & thread time sampler via NT APIs. `Rust`
+* [**nt-handle-inspector**](https://github.com/bedrickov/nt-handle-inspector) — Fast kernel handle table viewer and object auditor. `C++20`
+* [**pe-entropy-analyzer**](https://github.com/bedrickov/pe-entropy-analyzer) — PE header parser detecting packed & encrypted sections. `C#`
+* [**rawsocket-probe**](https://github.com/bedrickov/rawsocket-probe) — Driverless raw packet capture & traffic monitor. `C`
+* [**byovd-auditor**](https://github.com/bedrickov/byovd-auditor) — Driver auditor scanning for known vulnerable rootkits. `Python`
+* [**clipboard-secret-scrubber**](https://github.com/bedrickov/clipboard-secret-scrubber) — Auto-redacts leaked API keys and tokens in clipboard. `Rust`
+* [**dns-cache-flusher**](https://github.com/bedrickov/dns-cache-flusher) — Instant DNS resolver cache cleaner via native API. `C`
+* [**win-service-map**](https://github.com/bedrickov/win-service-map) — Maps Windows services directly to their svchost PIDs. `C#`
+* [**namedpipe-audit**](https://github.com/bedrickov/namedpipe-audit) — Scans system named pipes for hidden IPC backdoors. `C++20`
+* [**tcp-port-map**](https://github.com/bedrickov/tcp-port-map) — Maps listening TCP ports to active processes. `Python`
 
 ---
 
